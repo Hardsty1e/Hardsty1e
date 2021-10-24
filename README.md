@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hardsty1e.
+- 👀 I’m interested in playing Football and listening to music.
+- 🌱 I’m currently learning Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on ...
+- 📫 Mail me at sanchitt040@gmail.com to connect
